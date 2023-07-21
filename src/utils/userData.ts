@@ -1,9 +1,9 @@
 export const userData = {
-  nameUser: "Samuel Leão",
-  githubUser: "samuelleaokenzie",
-  linkedinUser: "nekelpatrick",
-  whatsappNumber: "+5541988819028",
-  emailUser: "samuel@kenzie.com.br",
-  instagramUser: "samuelleaoui",
+  nameUser: "Rihan Soares",
+  githubUser: "Rsoare",
+  linkedinUser: "Rihansoares",
+  whatsappNumber: "+5521986673956",
+  emailUser: "rihan145@gmail.com",
+  instagramUser: "",
   facebookUser: "",
 };
