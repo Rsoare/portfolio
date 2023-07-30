@@ -44,10 +44,10 @@ export const Home = (): JSX.Element => {
                 width={"48px"}
                 height={"48px"}
               />
-              <Text color="grey4">Hello, my name is {userData.nameUser}</Text>
+              <Text color="grey4">Olá, meu nome é {userData.nameUser}</Text>
             </Flex>
             <Text as="h1" type="heading1" color="grey5">
-            I{" "}
+              I{" "}
               <Text as="span" type="heading1" color="brand1">
                 love
               </Text>{" "}
@@ -58,9 +58,20 @@ export const Home = (): JSX.Element => {
               projects
             </Text>
             <Text type="body1" color="grey2">
-              Discover here in this environment, created especially for you, all
-              my projects and technologies
+              Minha relação com a programação começou na minha adolescência
+              quando fiz 13 anos ganhei meu primeiro computador com o saudoso
+              Windows XP, onde acabei descobrindo a programação que despertou a
+              minha curiosidade sobre ela e quanto mais eu pesquisava mais me
+              apaixonava pela área.
             </Text>
+
+            <Text type="body1" color="grey2">
+              Infelizmente não pude continuar os meus estudos em programação e
+              acabei indo trabalhar em outras áreas, mas decidi voltar a dedicar
+              meus estudos para o desenvolvimento web onde tenho aprendido e me
+              apaixonado cada vez mais por esse mundo.
+            </Text>
+
             <HeaderButtonsArea>
               <Button as="a" type="primary" href="#projects">
                 See Projects
